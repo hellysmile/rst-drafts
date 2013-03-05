@@ -10,6 +10,7 @@ features
 ********
 
 * test rst here
+
 installation
 ------------
 
@@ -29,6 +30,7 @@ cli options
 ~~~~~~~~~~~
 
 --foo
+
     Bar
 
 tests
