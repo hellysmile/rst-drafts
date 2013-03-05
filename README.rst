@@ -1,7 +1,7 @@
 rst-drafts
 ==========
 
-:info: up to date simple useragent faker with real world database
+:info: some awesome info
 
 .. image:: https://api.travis-ci.org/hellysmile/rst-drafts.png
     :target: https://travis-ci.org/hellysmile/rst-drafts
